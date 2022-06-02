@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "934448005943",
+    "project_id": "ecommerce-4550d",
+    "storage_bucket": "ecommerce-4550d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934448005943:android:89d37fdb0c10396d6b90b2",
+        "android_client_info": {
+          "package_name": "com.example.e_comarce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "934448005943-gucv1gvdu22smd3adtoat88tnblfu445.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbijAFpE5VbZ-fBchSY7FxU0J53ZBu5ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "934448005943-gucv1gvdu22smd3adtoat88tnblfu445.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
